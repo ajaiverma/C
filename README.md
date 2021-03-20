@@ -1,2 +1,2 @@
-# c-programming
-c programming
+# c
+This repo includes problem and solution using c language
